@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="shadow_dx" format="float" type="dimen">1.0</item>
+    <item name="shadow_dy" format="float" type="dimen">1.0</item>
+    <item name="shadow_radius" format="float" type="dimen">1.0</item>
+</resources>
